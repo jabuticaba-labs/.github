@@ -35,11 +35,10 @@ We are a community passionate about programming and technology, united by the us
 Here, we believe that **cooperation** is the key to success. Together, we explore the nuances of Brazilian tax legislation and create elegant and efficient solutions. Whether you are a programming enthusiast, an experienced developer, or someone who wants to learn more about Python, you have come to the right place!
 
 **What we do:**
-
-We develop **Python libraries** for processing and analyzing tax documents, such as electronic invoices (NF-e), fiscal receipts (CF-e), and others.
-We create **automation tools** that simplify the generation of tax obligations, such as declarations and reports.
-We share knowledge, tips, and tricks for dealing with the complexity of the Brazilian tax system.
-We adopt the AGPL v3.0 license (https://www.gnu.org/licenses/agpl-3.0.en.html), as we believe that the evolution of **any tool made freely available** on the internet should be shared with **EVERYONE** without exception.
+- We develop **Python libraries** for processing and analyzing tax documents, such as electronic invoices (NF-e), fiscal receipts (CF-e), and others.
+- We create **automation tools** that simplify the generation of tax obligations, such as declarations and reports.
+- We share knowledge, tips, and tricks for dealing with the complexity of the Brazilian tax system.
+- We adopt the AGPL v3.0 license (https://www.gnu.org/licenses/agpl-3.0.en.html), as we believe that the evolution of **any tool made freely available** on the internet should be shared with **EVERYONE** without exception.
 
 **Why "Jabuticaba"?** 
 Just like the exotic fruit that only grows in Brazil, our solutions are unique and adapted to the particularities of our country. We believe that technology can be as diverse and rich as the Brazilian flora.
