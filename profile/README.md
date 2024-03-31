@@ -8,7 +8,7 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-**Bem-vindos ao Jabuticaba-labs! 🌟**
+[pt-BR] **Bem-vindos ao Jabuticaba-labs! 🌟**
 
 Somos uma comunidade apaixonada por programação e tecnologia, unidos pelo uso da linguagem Python e à resolução de desafios complexos. Nossa missão é fomentar a colaboração e o desenvolvimento de ferramentas inovadoras que simplifiquem o tratamento dos documentos comprobatórios de obrigações fiscais no Brasil.
 
@@ -26,3 +26,24 @@ Assim como a fruta exótica que só cresce no Brasil, nossas soluções são ún
 **Junte-se a nós!** Se você é um programador, contador, estudante ou simplesmente alguém curioso, venha fazer parte do Jabuticaba-labs. Juntos, podemos transformar desafios fiscais em oportunidades criativas!
 
 Para saber mais, acompanhe-nos aqui em nosso repositório . Estamos ansiosos para colaborar com você! 🚀🐢🔍
+
+---------------------------------------------------------------------------------
+
+[en-US] **Welcome to Jabuticaba-labs! 🌟**
+We are a community passionate about programming and technology, united by the use of the Python language and the resolution of complex challenges. Our mission is to foster collaboration and the development of innovative tools that simplify the processing of tax compliance documents in Brazil.
+
+Here, we believe that **cooperation** is the key to success. Together, we explore the nuances of Brazilian tax legislation and create elegant and efficient solutions. Whether you are a programming enthusiast, an experienced developer, or someone who wants to learn more about Python, you have come to the right place!
+
+**What we do:**
+
+We develop **Python libraries** for processing and analyzing tax documents, such as electronic invoices (NF-e), fiscal receipts (CF-e), and others.
+We create **automation tools** that simplify the generation of tax obligations, such as declarations and reports.
+We share knowledge, tips, and tricks for dealing with the complexity of the Brazilian tax system.
+We adopt the AGPL v3.0 license (https://www.gnu.org/licenses/agpl-3.0.en.html), as we believe that the evolution of **any tool made freely available** on the internet should be shared with **EVERYONE** without exception.
+
+**Why "Jabuticaba"?** 
+Just like the exotic fruit that only grows in Brazil, our solutions are unique and adapted to the particularities of our country. We believe that technology can be as diverse and rich as the Brazilian flora.
+
+**Join us!** If you are a programmer, accountant, student, or simply someone curious, come and be part of Jabuticaba-labs. Together, we can transform tax challenges into creative opportunities!
+
+To learn more, follow us here in our repository. We look forward to collaborating with you! 🚀🐢🔍
