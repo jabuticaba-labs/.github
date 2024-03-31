@@ -18,6 +18,7 @@ Aqui, acreditamos que a **cooperação** é a chave para o sucesso. Juntos, expl
 - Desenvolvemos **bibliotecas Python** para processamento e análise de documentos fiscais, como notas fiscais eletrônicas (NF-e), cupons fiscais (CF-e) e outros.
 - Criamos **ferramentas de automação** que simplificam a geração de obrigações fiscais, como declarações e relatórios.
 - Compartilhamos conhecimento, dicas e truques para lidar com a complexidade do sistema tributário brasileiro.
+- Adotamos a licença AGPL v3.0 ( https://www.gnu.org/licenses/agpl-3.0.pt-br.html ), pois acreditamos que a evolução de toda ferramenta disponibilizada livremente na internet, **deve** ser compartilhada para **TODOS** sem exceção.
 
 **Por que "Jabuticaba"?**
 Assim como a fruta exótica que só cresce no Brasil, nossas soluções são únicas e adaptadas às particularidades do nosso país. Acreditamos que a tecnologia pode ser tão diversa e rica quanto a flora brasileira.
